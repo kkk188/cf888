@@ -1,0 +1,10 @@
+{
+    "packageUrl": "https://resources.888cpc.com/m/",
+    "searchPaths": [],
+    "assets": {
+    },
+    "remoteVersionUrl": "https://resources.888cpc.com/m/version.manifest",
+    "version": "1.0.1",
+    "engineVersion": "3.17",
+    "remoteManifestUrl": "https://resources.888cpc.com/m/project.manifest"
+}
